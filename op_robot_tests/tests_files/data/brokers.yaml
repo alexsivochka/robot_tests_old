@@ -292,6 +292,9 @@ PrivatMarket:
             tender:  [0, 15]
         lots:
             accelerator: 240
+        auctions:
+            accelerator: 150
+            auction: [12000, 60]
     keywords_file: privatmarket
     roles:
         tender_owner:   PrivatMarket_Owner
