@@ -286,7 +286,7 @@ users:
         homepage: "https://zakupivli24.pb.ua/prz-stage/tender"
         email:    pbecommercetest2@ukr.net
         login:    380270010001
-        password: zakupivli24
+        password: password0001
         browser:  chrome
         position: [0, 0]
         size:     [1920, 1080]
